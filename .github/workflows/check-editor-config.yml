@@ -1,4 +1,4 @@
-name: Check-EditorConfig
+name: check-editor-config
 
 on: push
 
